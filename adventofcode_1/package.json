@@ -1,0 +1,18 @@
+{
+  "name": "adventofcode_1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Fanny Armand <fannyarmand2@gmail.com>",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "prettier": "2.2.1"
+  }
+}
